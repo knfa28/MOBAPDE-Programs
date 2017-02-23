@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabIntent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_gender">edit_gender</string>
+    <string name="title_activity_edit_age">EditAge</string>
+</resources>

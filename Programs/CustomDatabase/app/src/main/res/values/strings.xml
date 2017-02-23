@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomDatabase</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_unit">EditUnitActivity</string>
+    <string name="title_activity_add_unit">AddUnitActivity</string>
+</resources>
